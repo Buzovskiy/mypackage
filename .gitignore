@@ -11,6 +11,8 @@ package-lock.json
 
 /static
 
+dist
+
 # C extensions
 *.so
 
