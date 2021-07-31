@@ -1,2 +1,5 @@
-def add_numbers(num1, num2):
-    return num1+num2
+def add_numbers(*args):
+    sum_num = 0
+    for num in args:
+        sum_num = sum_num + num
+    return sum_num
