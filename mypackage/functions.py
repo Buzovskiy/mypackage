@@ -5,3 +5,8 @@ def add_numbers(*args, multiply=None):
     if multiply is not None:
         return sum_num * multiply
     return sum_num
+
+
+def tag_v005():
+    return 'tagv005'
+
