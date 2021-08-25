@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mypackage-osar-new", # Replace with your own username
-    version="0.0.6",
+    version="0.0.8",
     author="Buzovskyi Vitalii",
     author_email="buzovskiy.v@gmail.com",
     description="test mypackage",

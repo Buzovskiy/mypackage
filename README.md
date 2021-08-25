@@ -5,6 +5,6 @@ You can use
 [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 to write your content.
 new readme information  
-![alt text](https://github.com/Buzovskiy/mypackage/blob/master/Figure_7.png?1)  
+![alt text](https://raw.githubusercontent.com/Buzovskiy/mypackage/master/Figure_7.png)  
 Text under image  
 
